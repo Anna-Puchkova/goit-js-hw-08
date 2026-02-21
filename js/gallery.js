@@ -64,7 +64,7 @@ const images = [
   },
 ];
 
-const gallery = document.querySelector('.js-gallery');
+const gallery = document.querySelector('.gallery');
 
 
 
